@@ -1,16 +1,23 @@
-## Hi there 👋
+# Anurodh Upadhyay
 
-<!--
-**upadhyayanurodh/upadhyayanurodh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> AI Product & Strategy | Building production AI agents and agentic workflows
 
-Here are some ideas to get you started:
+Building at the intersection of AI product craft and enterprise systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Build
+- AI agents and agentic workflows (Claude, Azure AI Foundry)
+- RAG pipelines with Azure AI Search and SharePoint
+- Data platforms on GCP and Azure
+- DPI/API layer products (ONDC settlement, reconciliation)
+
+## Current Focus
+Building a portfolio of production-grade AI agents for enterprise use cases — FMCG, notifications, trade intelligence.
+
+## Stack
+![Azure](https://img.shields.io/badge/Azure-AI_Foundry-0078d4?style=flat-square&logo=microsoftazure)
+![Claude](https://img.shields.io/badge/Claude-Anthropic-D97706?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/anurodh-upadhyay-49115146/) · upadhyayanurodh@gmail.com
