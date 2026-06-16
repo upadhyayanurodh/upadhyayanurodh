@@ -11,7 +11,7 @@ Building at the intersection of AI product craft and enterprise systems.
 - DPI/API layer products (ONDC settlement, reconciliation)
 
 ## Current Focus
-Building a portfolio of production-grade AI agents for enterprise use cases — FMCG, notifications, trade intelligence.
+Building a portfolio of production-grade AI agents for enterprise use cases.
 
 ## Stack
 ![Azure](https://img.shields.io/badge/Azure-AI_Foundry-0078d4?style=flat-square&logo=microsoftazure)
