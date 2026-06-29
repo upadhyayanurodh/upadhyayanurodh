@@ -7,6 +7,8 @@ spanning real-time operations, document-grounded RAG, and India's Digital Public
 
 ## What I Build
 
+- **Voice-enabled, multilingual agents** — AWS Bedrock Agents (Nova Pro) with action-group
+  tool loops and RAG over S3 Vectors; five languages, by voice or text
 - **Real-time, event-driven systems** — serverless fraud detection on AWS
   (Lambda · SQS · DynamoDB) with a rule engine and AI-generated risk explanations
 - **Decision dashboards** — single-file, zero-backend data products on S3 + CloudFront
@@ -30,6 +32,10 @@ Infrastructure rails, each on a different cloud:
 
 ## Selected Projects
 
+- **[ai-grievance-resolution-agent](https://github.com/upadhyayanurodh/ai-grievance-resolution-agent)** —
+  Voice-enabled, multilingual grievance-resolution agent on AWS Bedrock Agents (Amazon Nova Pro).
+  Deterministic tool-driven resolution + RAG-grounded policy Q&A over an S3 Vectors knowledge base;
+  five languages (EN/HI/Hinglish/AR/ES) by voice or text. *[Live demo](https://d2t8lmn9cz1mmx.cloudfront.net)*
 - **[ai-upi-fraud-intelligence-agent](https://github.com/upadhyayanurodh/ai-upi-fraud-intelligence-agent)** —
   Real-time UPI fraud detection on AWS. Serverless rule engine over a per-VPA sliding
   window, with Amazon Nova explanations and a live dashboard. *[Live demo](http://upi-fraud-dashboard-339163283135.s3-website.ap-south-1.amazonaws.com)*
