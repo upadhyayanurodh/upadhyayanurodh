@@ -1,6 +1,6 @@
 # Anurodh Upadhyay
 
-> 	AI Product & Strategy — building production AI agents across AWS, GCP & Azure, each deployed live.
+> 	AI Products & Strategy — building production AI agents across AWS, GCP & Azure, each deployed live.
 
 I build agentic systems at the intersection of AI product craft and enterprise infrastructure —
 spanning real-time operations, document-grounded RAG, and India's Digital Public Infrastructure (DPI).
